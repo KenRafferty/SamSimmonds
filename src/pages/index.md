@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Sam Simmonds Meeeting
-image: /img/home-jumbotron.jpg
+image: /img/hotelbackdrop.jpg
 heading: Great coffee with a conscience
 subheading: '         South West Thames Orthopaedic Club'
 mainpitch:

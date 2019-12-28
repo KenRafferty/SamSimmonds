@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Sam Simmonds Meeeting
 image: /img/hotelbackdrop.jpg
-heading: Great coffee with a conscience
+heading: Sam Simmonds Evening meal Sponsors
 subheading: '         South West Thames Orthopaedic Club'
 mainpitch:
   title: Sam Simmonds
@@ -16,11 +16,7 @@ mainpitch:
 
     He very much disliked his given names and in adult life was universally
     known as Sam.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Here are some of our top sponsors that we would like to thank.
 intro:
   blurbs: []
   heading: What we offer
